@@ -1,5 +1,13 @@
 # Changelog
 
+## News - 2026-11-07
+
+What we are building in early 2027
+
+- A mobile timer app is in private beta.
+- Direct bookkeeping exports are next on the roadmap.
+- Tell us what you want most: roadmap votes are open to every customer.
+
 ## v1.6 - 2026-11-07
 
 CSV export retired from Reports
