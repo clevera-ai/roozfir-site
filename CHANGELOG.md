@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7 - 2026-11-07
+
+CSV export is back in Reports
+
+- The "Export CSV" button returns to Reports, so you can download any filtered report again.
+
 ## News - 2026-11-07
 
 What we are building in early 2027
