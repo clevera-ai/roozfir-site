@@ -18,3 +18,7 @@ npm run build   # tsc, vite build, then postbuild: pricing/ and changelog/ folde
 ```
 
 Pushing to `main` deploys to GitHub Pages (`.github/workflows/deploy.yml`).
+
+## Help center (legacy, static)
+
+`public/help/` is a hand-written static help center (not part of the React build): 49 articles, a left sidebar on every page and a cookie banner (`public/help/cookie.js`). `scripts/help-articles.mjs` holds the newer articles and `node scripts/help-gen.mjs` re-applies the sidebar to every page, rewrites the index and writes `public/sitemap.xml` and `public/robots.txt`. The first 20 articles and their v1.16 screenshots are deliberately left stale.
