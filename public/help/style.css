@@ -3,7 +3,7 @@ a{color:#0b5cad}#top{background:#2b3a4a;padding:12px 0}#top a{color:#fff;text-de
 .wrap{max-width:860px;margin:0 auto;padding:0 18px}#main{padding-top:20px;padding-bottom:40px}
 h1{font:bold 28px Arial,sans-serif;margin:8px 0 6px}h2{font:bold 20px Arial,sans-serif;margin:28px 0 8px;border-bottom:1px solid #ddd;padding-bottom:4px}
 .crumbs{font:13px Arial,sans-serif;color:#666}.intro{font-size:17px;color:#444}.meta{font:12px Arial,sans-serif;color:#888}
-ol{padding-left:22px}ol li{margin:0 0 14px}figure{margin:10px 0 4px}figure img{max-width:100%;border:1px solid #ccc;display:block}figcaption{font:12px Arial,sans-serif;color:#777;margin-top:3px}
+ol{padding-left:22px}ol li{margin:0 0 14px}figure{margin:10px 0 4px}img{max-width:100%;height:auto}figure img{border:1px solid #ccc;display:block}figcaption{font:12px Arial,sans-serif;color:#777;margin-top:3px}
 .tip{background:#fff8dc;border-left:4px solid #e0b400;padding:8px 14px;margin:20px 0}ul.list{padding-left:20px}ul.list li{margin:3px 0}
 #foot{border-top:1px solid #ddd;padding:16px 0;font:12px Arial,sans-serif;color:#777}
 /* sidebar layout */
